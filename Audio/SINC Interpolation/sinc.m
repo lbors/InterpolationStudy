@@ -27,10 +27,10 @@ grid on
 
 subplot(2,2,4);
 plot(yp);
-title('Downsampling -> InterpolaÁ„o SINC');
+title('Downsampling -> Interpola√ß√£o SINC');
 grid on
 
 %subplot(2,2,4);
 %plot(xp);
-%title('Downsamplig -> Upsampling -> InterpolaÁ„o SINC');
+%title('Downsamplig -> Upsampling -> Interpola√ß√£o SINC');
 %grid on
